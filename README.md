@@ -12,7 +12,7 @@ de aprendizaje, como libros, videos y tutoriales relacionados con la ingeniería
   <table style={margin: 0 auto}>
   <tr align="center">
     <td>Mariela Isabel Rodríguez</td>
-    <td>Nelson Ricardo Guardado Murcia</td>
+    <td>Nelson Ricardo Murcia</td>
   </tr>
     <tr align="center">
     <td><br> :computer: :art: :bulb:</td>
