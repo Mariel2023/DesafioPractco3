@@ -45,4 +45,4 @@ de aprendizaje, como libros, videos y tutoriales relacionados con la ingeniería
 
 🔴[**Video demostrativo 🖌**](https://drive.google.com/file/d/1vzTQSUz3ORP8XiKJMynLnKBUlFjKfos3/view?usp=drivesdk)<br>
 
-🔵[**Documento 📗**]()
+🔵[**Documento 📗**](https://drive.google.com/file/d/1OcbPGSUpNMVe4cNIMsFLi8SW68svv3cx/view?usp=sharing)
