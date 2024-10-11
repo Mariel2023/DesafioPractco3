@@ -35,7 +35,7 @@ de aprendizaje, como libros, videos y tutoriales relacionados con la ingeniería
 
 ## 🎨 Icono y Paleta de Colores
 
-![Icono](app/src/main/ic_launcher-playstore.png)
+![Icono](https://github.com/Mariel2023/DesafioPractco3/blob/main/Icono%20de%20la%20app.png?raw=true)
 
 ![Paleta de Colores](https://i.imgur.com/QtYQurL.png)
 
