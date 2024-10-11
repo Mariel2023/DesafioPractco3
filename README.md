@@ -2,8 +2,9 @@
 
 <br>
 
-# 🔴🔵 PharmaClick
-Bienvenido al repositorio de desarrollo de nuestra aplicacion movil 👋🏻
+# 🔴🔵 LearnSys
+Bienvenido al repositorio de desarrollo de nuestra aplicacion movil LearnSys, donde podras acceder a una lista de recursos
+de aprendizaje, como libros, videos y tutoriales relacionados con la ingeniería de sistemas.  👋🏻
 <br>
    
 <h2>👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻Equipo de Desarrollo </h2>
